@@ -1,10 +1,8 @@
 package com.example.api.service;
 
-import com.example.api.domain.Coupon;
 import com.example.api.producer.CouponCreateProducer;
 import com.example.api.repository.AppliedUserRepository;
 import com.example.api.repository.CouponCountRepository;
-import com.example.api.repository.CouponRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
